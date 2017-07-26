@@ -1,0 +1,899 @@
+;;;
+;;; Type: calllog
+;;; Version: 1
+;;; Locale: English_United States.1252
+;;; Opened D:/NVP/logs/../callLogs/master/Accenture/UraCampanha/2015/04April/01/00/00-24-URACTX11RJOED-E1-VOX-SC-line-104-LOG
+;;; Time: Wed Apr 01 00:00:24 2015
+;;; Host: URACTX11RJOED
+;;; Base path: D:/NVP/logs/../callLogs/master/Accenture/UraCampanha
+;;; Program: NVP
+;;;
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:00:25 2015
+	BEGIN_TIME                = 0.984
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 1
+	LAST_USER_INPUT_TIME      = 2.85538e+006
+	CALL_SEIZURE_TIME         = 2015/04/01 00:00:23.957
+	BROWSER                   = Browser 113
+	BROWSER_ID                = 1691670
+	CALL_REMOTE_URL           = tel:3488001222
+	CALL_LOCAL_URL            = tel:12066
+	TRANSITION                = InitialPage resulted in http://10.6.60.42:8090/uracampanha/vxml/index.jsp?ura=URACTX11RJOED
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/vxml/index.jsp?ura=URACTX11RJOED<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #Index
+	ENTERING_FORM_ITEM        = block:_0
+	APP_AppSrv                = APPCTX19RJOED
+	APP_Extension             = 104
+	APP_Appl                  = PROMO
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/vxml/index.jsp?ura=URACTX11RJOED resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Inicio&ura=URACTX11RJOED&ctiport=104&ani=tel:3488001222&dnis=tel:12066
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Inicio&ura=URACTX11RJOED&ctiport=104&ani=tel:3488001222&dnis=tel:12066<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #manutencao
+	ENTERING_FORM_ITEM        = block:_0
+	ENTERING_FORM_ITEM        = block:_1
+	ENTERING_FORM             = #SaudacaoInicio
+	ENTERING_FORM_ITEM        = block:_2
+	APP_varsRoot.isPossuiDDDAtivoMigracaoPreControle = true
+	APP_varsRoot.possuiPromocaoIN = false
+	APP_varsRoot.constaTabelaOfertaDegrau7 = false
+	APP_varsRoot.bolsoRecargaExpirado = false
+	APP_varsRoot.ddd          = 34
+	APP_varsRoot.possuiDDDAtivoOpcaoRecarga = true
+	APP_varsRoot.erroCadastroPromo = false
+	APP_varsRoot.isNovoOiControle = false
+	APP_varsRoot.atingiuRecargaMinMesAtual = false
+	APP_varsRoot.isInativo    = false
+	APP_varsRoot.isOiControle = false
+	APP_varsRoot.isPossuiDDDFaleIlimitado = false
+	APP_varsRoot.isDataCadastroMigracaoM4Umaior24H = false
+	APP_varsRoot.isClienteIsentoCobrancaTaxaFranquiaMigracao = false
+	APP_varsRoot.existeRecargaMax = false
+	APP_varsRoot.isConstaTabelaOfertaFaleIlimitado = false
+	APP_varsRoot.isMaillingParalelaPromo = false
+	APP_varsRoot.isElegivelNovaPromo = false
+	APP_varsRoot.possuiDDDPacoteBonusMix = true
+	APP_varsRoot.isOiContaTotal = false
+	APP_varsRoot.possuiDDDPacoteBonusExtra = true
+	APP_varsRoot.possuiDDDPacoteSMS = true
+	APP_varsRoot.possuiCreditoEspecialIN = false
+	APP_varsRoot.possuiPredileto = false
+	APP_varsRoot.dddInternetMovelPrePaga = true
+	APP_varsRoot.isPosPago    = false
+	APP_varsRoot.isDddElegivelPromoSorteioOiPaggo = false
+	APP_varsRoot.isInvertido  = false
+	APP_varsRoot.bolsoOiFixoPromocionalComecaHoje = false
+	APP_varsRoot.isPrePago    = true
+	APP_varsRoot.possuiCadastroM4U = false
+	APP_varsRoot.atingiuRecargaMaxMesAtual = false
+	APP_varsRoot.elegivelInternetMovelPrePaga = false
+	APP_varsRoot.constaTabelaOfertaSuperBonus = false
+	APP_varsRoot.isElegivelBCE = false
+	APP_vars.constaNaBase     = true
+	APP_vars.M4UBeanExecutorExecutionTime = 31
+	APP_vars.idBeneficio      = 44
+	APP_vars.parametroInformaDnis = false
+	APP_vars.M4URecargaPrePagoExecutor = Success
+	APP_vars.possuiPromo31Anos = false
+	APP_vars.erroConsultaSiebel = false
+	APP_vars.SiebelPrincipalExecutorExecutionTime = 141
+	APP_vars.statusCode       = 0
+	APP_vars.promocaoNaoIdentificada = true
+	APP_vars.M4URecargaPrePagoExecutorExecutionTime = 63
+	APP_vars.isElegivelPesquisa = false
+	APP_vars.M4URecargaPrePagoExecutorRestExecutionTime = 312
+	APP_vars.isCanalDiretoRecarga = false
+	APP_vars.SiebelInativosExecutor = Success
+	APP_vars.isErrorM4uPrepago = false
+	APP_vars.PerfilInExecutorExecutionTime = 422
+	APP_vars.M4UBeanExecutor  = Success
+	APP_vars.SiebelInativosExecutorExecutionTime = 0
+	APP_vars.SiebelPrincipalExecutor = Success
+	APP_vars.isSucessoConsultaM4U = true
+	APP_vars.dnis             = tel:12066
+	APP_vars.M4URecargaControleExecutor = Success
+	APP_vars.aniDisponivel    = true
+	APP_vars.INChamadaConsulta = true
+	APP_vars.ani              = 3488001222
+	APP_vars.hour             = 0
+	APP_vars.isPesquisaOn     = false
+	APP_vars.PerfilInExecutor = Success
+	APP_vars.erroConsultaIN   = false
+	APP_vars.emManutencao     = false
+	APP_vars.INConsultaMonUra = true
+	APP_vars.M4URecargaControleExecutorExecutionTime = 203
+	APP_vars.M4URecargaPrePagoExecutorRest = Success
+	APP_vars.isClienteCorporativo = false
+	APP_vars.idPrograma       = 35
+	ENTERING_FORM_ITEM        = block:playBlock
+	APP_AppSrv                = APPCTX19RJOED
+	APP_Ani                   = 
+	APP_Dnis                  = tel:12066
+	APP_INCONSULTAMONURA      = true
+	APP_IDPROGRAMA            = 35
+	APP_IDBENEFICIO           = 44
+	APP_INPERFORMANCE         = 0
+	APP_INCHAMADACONSULTA     = true
+	APP_PROMO                 = 
+	ENTERING_FORM             = #Inicio
+	ENTERING_FORM_ITEM        = block:_3
+	APP_varsRoot.isPossuiDDDAtivoMigracaoPreControle = true
+	APP_varsRoot.possuiPromocaoIN = false
+	APP_varsRoot.constaTabelaOfertaDegrau7 = false
+	APP_varsRoot.bolsoRecargaExpirado = false
+	APP_varsRoot.ddd          = 34
+	APP_varsRoot.possuiDDDAtivoOpcaoRecarga = true
+	APP_varsRoot.erroCadastroPromo = false
+	APP_varsRoot.isNovoOiControle = false
+	APP_varsRoot.atingiuRecargaMinMesAtual = false
+	APP_varsRoot.isInativo    = false
+	APP_varsRoot.isOiControle = false
+	APP_varsRoot.isPossuiDDDFaleIlimitado = false
+	APP_varsRoot.isDataCadastroMigracaoM4Umaior24H = false
+	APP_varsRoot.isClienteIsentoCobrancaTaxaFranquiaMigracao = false
+	APP_varsRoot.existeRecargaMax = false
+	APP_varsRoot.isConstaTabelaOfertaFaleIlimitado = false
+	APP_varsRoot.isMaillingParalelaPromo = false
+	APP_varsRoot.isElegivelNovaPromo = false
+	APP_varsRoot.possuiDDDPacoteBonusMix = true
+	APP_varsRoot.isOiContaTotal = false
+	APP_varsRoot.possuiDDDPacoteBonusExtra = true
+	APP_varsRoot.possuiDDDPacoteSMS = true
+	APP_varsRoot.possuiCreditoEspecialIN = false
+	APP_varsRoot.possuiPredileto = false
+	APP_varsRoot.dddInternetMovelPrePaga = true
+	APP_varsRoot.isPosPago    = false
+	APP_varsRoot.isDddElegivelPromoSorteioOiPaggo = false
+	APP_varsRoot.isInvertido  = false
+	APP_varsRoot.bolsoOiFixoPromocionalComecaHoje = false
+	APP_varsRoot.isPrePago    = true
+	APP_varsRoot.possuiCadastroM4U = false
+	APP_varsRoot.atingiuRecargaMaxMesAtual = false
+	APP_varsRoot.elegivelInternetMovelPrePaga = false
+	APP_varsRoot.constaTabelaOfertaSuperBonus = false
+	APP_varsRoot.isElegivelBCE = false
+	APP_vars.constaNaBase     = true
+	APP_vars.M4UBeanExecutorExecutionTime = 31
+	APP_vars.idBeneficio      = 44
+	APP_vars.parametroInformaDnis = false
+	APP_vars.M4URecargaPrePagoExecutor = Success
+	APP_vars.possuiPromo31Anos = false
+	APP_vars.erroConsultaSiebel = false
+	APP_vars.SiebelPrincipalExecutorExecutionTime = 141
+	APP_vars.statusCode       = 0
+	APP_vars.promocaoNaoIdentificada = true
+	APP_vars.M4URecargaPrePagoExecutorExecutionTime = 63
+	APP_vars.isElegivelPesquisa = false
+	APP_vars.M4URecargaPrePagoExecutorRestExecutionTime = 312
+	APP_vars.isCanalDiretoRecarga = false
+	APP_vars.SiebelInativosExecutor = Success
+	APP_vars.isErrorM4uPrepago = false
+	APP_vars.PerfilInExecutorExecutionTime = 422
+	APP_vars.M4UBeanExecutor  = Success
+	APP_vars.SiebelInativosExecutorExecutionTime = 0
+	APP_vars.SiebelPrincipalExecutor = Success
+	APP_vars.isSucessoConsultaM4U = true
+	APP_vars.dnis             = tel:12066
+	APP_vars.M4URecargaControleExecutor = Success
+	APP_vars.aniDisponivel    = true
+	APP_vars.INChamadaConsulta = true
+	APP_vars.ani              = 3488001222
+	APP_vars.hour             = 0
+	APP_vars.isPesquisaOn     = false
+	APP_vars.PerfilInExecutor = Success
+	APP_vars.erroConsultaIN   = false
+	APP_vars.emManutencao     = false
+	APP_vars.INConsultaMonUra = true
+	APP_vars.M4URecargaControleExecutorExecutionTime = 203
+	APP_vars.M4URecargaPrePagoExecutorRest = Success
+	APP_vars.isClienteCorporativo = false
+	APP_vars.idPrograma       = 35
+	ENTERING_FORM_ITEM        = block:playBlock
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Inicio&ura=URACTX11RJOED&ctiport=104&ani=tel:3488001222&dnis=tel:12066 resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=TriagemInativos
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=TriagemInativos<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #TriagemInativos
+	ENTERING_FORM_ITEM        = block:_0
+	ENTERING_FORM_ITEM        = block:playBlock
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=TriagemInativos resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=TriagemDesbloqueios
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=TriagemDesbloqueios<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #TriagemDesbloqueios
+	ENTERING_FORM_ITEM        = block:_0
+	APP_varsRoot.constaTabelaOfertaDegrau7 = false
+	APP_varsRoot.promoExpirada = false
+	APP_varsRoot.isPossuiPromoParalela = false
+	APP_varsRoot.isPossuiOfertaFaleIlimitado = false
+	APP_vars.isPossuiPromoTemplateSecundariaControle = false
+	APP_vars.isControleSemFatura = false
+	APP_vars.ClienteJaOuviu2Vezes = false
+	APP_vars.isPrePago        = true
+	APP_vars.isPossuiPromoTemplateSecundariaCartao = true
+	APP_vars.promocaoIdentificada = true
+	APP_vars.isSemPromo       = false
+	APP_vars.isBloqueioCadastro = false
+	ENTERING_FORM_ITEM        = block:playBlock
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=TriagemDesbloqueios resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Welcome
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Welcome<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #Welcome
+	ENTERING_FORM_ITEM        = block:_0
+	APP_vars.isPossuiPromoTemplateSecundariaControle = false
+	APP_vars.aptoNotificacaoBolhaEstimuloRecargaControle = true
+	APP_vars.isFinalAniWelcome = false
+	APP_vars.isPossuiOferta   = true
+	APP_vars.isPossuiPromoTemplateSecundariaCartao = true
+	APP_vars.isDddWelcome     = true
+	APP_vars.isMailingNotificacaoBolhaEstimuloRecargaControle = false
+	APP_vars.isElegivelBolhaRecargaWelcome = true
+	APP_vars.uraNovaPacote    = true
+	APP_vars.isMailingControleConectado = false
+	APP_vars.ativaIncentivoOferta = true
+	APP_vars.isSaldoExpirado  = false
+	APP_vars.isMailingOiGaleraInformaAdesao = false
+	APP_vars.bolsoRecargaExpiraUmDia = false
+	APP_vars.statusClienteUraPersonalizadaOK = false
+	APP_vars.isIncentivoOferta = false
+	APP_vars.incentivoRecargaDDD = true
+	APP_vars.aptoNotificacaoIncentivoBolhaControleConectado = true
+	APP_vars.isSaldoMenorQueDezReais = true
+	APP_vars.isDataDisponibilidade = false
+	APP_vars.bolsoRecargaExpiraDoisDias = false
+	ENTERING_FORM_ITEM        = block:_1
+	APP_controle              = ICR1_00001
+	APP_controle              = ICR1_00011
+	APP_controle              = ICR1_00013
+	APP_controle              = ICR1_00024
+	APP_controle              = ICR1_00028
+	APP_controle              = ICR1_00014
+	ENTERING_FORM             = #TriagemOfertas_SaldoValido_init1
+	ENTERING_FORM_ITEM        = block:_3
+	APP_vars.isPossuiPromoTemplateSecundariaControle = false
+	APP_vars.aptoNotificacaoBolhaEstimuloRecargaControle = true
+	APP_vars.isFinalAniWelcome = false
+	APP_vars.isPossuiOferta   = true
+	APP_vars.isPossuiPromoTemplateSecundariaCartao = true
+	APP_vars.isDddWelcome     = true
+	APP_vars.isMailingNotificacaoBolhaEstimuloRecargaControle = false
+	APP_vars.isElegivelBolhaRecargaWelcome = true
+	APP_vars.uraNovaPacote    = true
+	APP_vars.isMailingControleConectado = false
+	APP_vars.ativaIncentivoOferta = true
+	APP_vars.isSaldoExpirado  = false
+	APP_vars.isMailingOiGaleraInformaAdesao = false
+	APP_vars.bolsoRecargaExpiraUmDia = false
+	APP_vars.statusClienteUraPersonalizadaOK = false
+	APP_vars.isIncentivoOferta = false
+	APP_vars.incentivoRecargaDDD = true
+	APP_vars.aptoNotificacaoIncentivoBolhaControleConectado = true
+	APP_vars.isSaldoMenorQueDezReais = true
+	APP_vars.isDataDisponibilidade = false
+	APP_vars.bolsoRecargaExpiraDoisDias = false
+	ENTERING_FORM_ITEM        = block:playBlock
+	ENTERING_FORM_ITEM        = field:option
+	PROMPTER_PATH             = None
+	PROMPTS                   = -tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 76
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_Inicio_SaudacaoInicial_c.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 9
+
+pause:250;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 70
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_Inicio_Abertura_v2.wav;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 9
+
+pause:250;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 84
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_TriagemOfertas_SaldoValido_init1.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 48
+
+http://10.6.60.42:8090/uracampanha/prompts/2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 52
+
+http://10.6.60.42:8090/uracampanha/prompts/reais.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 50
+
+http://10.6.60.42:8090/uracampanha/prompts/And.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 49
+
+http://10.6.60.42:8090/uracampanha/prompts/84.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 52
+
+http://10.6.60.42:8090/uracampanha/prompts/Cents.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 87
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_TriagemOfertas_SaldoValido_init2_V3.wav
+	GRAMMAR                   = RECOGNIZE
+Content-Type:application/x-nuance-gsl
+Nuance-Grammar-Label:/uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#TriagemOfertas_SaldoValido_init1<>field:option
+Nuance-Package-Name:pt-BR
+Nuance-Config-Name:pt-BR
+Content-Base:http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Welcome
+Vendor-Specific-Parameters:behavior.calllog.ConfidentialURLParameters="state,                      creditCard,                      birth,                      prePaid,                      expirationDate,                      paymentType,                      prePaid,                      valueRecharge,                      endCardNumber,                      validationValue,                      cpf,                      cvv,                      randomChoose,                      endCard1,                      endCard2,                      endCardNumberUser,                      paymentTypeUser,                      M4URecargaBandeira,                      bandeira1,                      bandeira2,                      bandeira3,                      numerocartao,                      dataValidadeCartao,                      dtNasc,                      cpfClienteNovo,                      scvv";client.InputModes="dtmf";client.TooMuchSpeechTimeoutSecs="10.0";rec.ConfidenceRejectionThreshold="34";vrs.ConnectAt="start-utt";vxml.interdigittimeout="1.5";
+Cookie-Store:http://URACTX11RJOED:16063/cookies/
+
+;GSL2.0
+_VWS_:public[
+[(dtmf-1 )] {<vws_id 0>}
+[(dtmf-2 )] {<vws_id 1>}
+]
+	PARAMETERS                = audio.Provider="dialogic";audio.ReadyForNextCall="TRUE";audio.dialogic.ChannelID="1691670";audio.dialogic.Lines="91-120";audio.dialogic.SecondaryDevice="";audio.sip.Lines="91-120";audio.sip.UserAgentPort="5060";audio.sip.UserAgentURI="sip:nvp@URACTX11RJOED";client.ChannelId="0160";client.KillPlaybackOnDTMF="FALSE";client.PopContext="";client.PushContext="client.InputModes=\"dtmf\";client.KillPlaybackOnDTMF=\"TRUE\"";client.TTSAddresses="10.6.60.30:27404";config.ClapiConfigFile="D:\NVP\vws/conf/clapi_conf.xml";config.LogFileNamePrefix="vbs4-jni";config.LogFileRootDir="D:\NVP/logs";config.LoggingLevel="STATUS";config.ManagementStationHost="10.6.60.34:8080";config.RecClientPort="7882";config.ServiceID="daae7e42-0a06-3c22-00d1-c7788221088e";egr.builtin.context="http://localhost:8120/builtin/query/";ep.BargeInInitialNoiseFloor="-22";ep.BargeInMinNoiseFloor="-42";rec.RouterDirectory="D:\NVP\vws/data/lang/Router/callrouter.rtr";rm.Addresses="GERCTX01RJOED,GERCTX02RJOED";sc.UsedInJVM="TRUE";vrs.CompilationServerTimeoutMs="120000";vrs.DatabaseOperationTimeoutMs="120000";vrs.InstallSignalHandler="FALSE";
+	GRAMMAR_LABEL             = /uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#TriagemOfertas_SaldoValido_init1<>field:option
+	PROMPT_DELAY              = 0.125
+	PROMPT_DURATION           = 25.813 (COMPLETED)
+	STATUS                    = NO_SPEECH_TIMEOUT
+	SERVER_HOSTNAME           = Unknown <connected via resource mgr>
+	RECRESULT_ID              = id_1_-1_-1
+	BARGE_IN                  = FALSE
+	STATE_DURATION            = 30.969
+}end
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:00:55 2015
+	BEGIN_TIME                = 31.953
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 2
+	ENTERING_FORM_ITEM        = block:playBlock
+	ENTERING_FORM_ITEM        = field:option
+	PROMPTER_PATH             = None
+	PROMPTS                   = -tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 66
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_OpcaoInvalida1.wav;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 84
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_TriagemOfertas_SaldoValido_init1.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 48
+
+http://10.6.60.42:8090/uracampanha/prompts/2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 52
+
+http://10.6.60.42:8090/uracampanha/prompts/reais.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 50
+
+http://10.6.60.42:8090/uracampanha/prompts/And.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 49
+
+http://10.6.60.42:8090/uracampanha/prompts/84.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 52
+
+http://10.6.60.42:8090/uracampanha/prompts/Cents.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 87
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_TriagemOfertas_SaldoValido_init2_V3.wav
+	GRAMMAR                   = RECOGNIZE
+Content-Type:application/x-nuance-gsl
+Nuance-Grammar-Label:/uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#TriagemOfertas_SaldoValido_init1<>field:option
+Nuance-Package-Name:pt-BR
+Nuance-Config-Name:pt-BR
+Content-Base:http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Welcome
+Vendor-Specific-Parameters:behavior.calllog.ConfidentialURLParameters="state,                      creditCard,                      birth,                      prePaid,                      expirationDate,                      paymentType,                      prePaid,                      valueRecharge,                      endCardNumber,                      validationValue,                      cpf,                      cvv,                      randomChoose,                      endCard1,                      endCard2,                      endCardNumberUser,                      paymentTypeUser,                      M4URecargaBandeira,                      bandeira1,                      bandeira2,                      bandeira3,                      numerocartao,                      dataValidadeCartao,                      dtNasc,                      cpfClienteNovo,                      scvv";client.InputModes="dtmf";client.TooMuchSpeechTimeoutSecs="10.0";rec.ConfidenceRejectionThreshold="34";vrs.ConnectAt="start-utt";vxml.interdigittimeout="1.5";
+Cookie-Store:http://URACTX11RJOED:16063/cookies/
+
+;GSL2.0
+_VWS_:public[
+[(dtmf-1 )] {<vws_id 0>}
+[(dtmf-2 )] {<vws_id 1>}
+]
+	PARAMETERS                = audio.Provider="dialogic";audio.ReadyForNextCall="TRUE";audio.dialogic.ChannelID="1691670";audio.dialogic.Lines="91-120";audio.dialogic.SecondaryDevice="";audio.sip.Lines="91-120";audio.sip.UserAgentPort="5060";audio.sip.UserAgentURI="sip:nvp@URACTX11RJOED";client.ChannelId="0160";client.KillPlaybackOnDTMF="FALSE";client.PopContext="";client.PushContext="client.InputModes=\"dtmf\";client.KillPlaybackOnDTMF=\"TRUE\"";client.TTSAddresses="10.6.60.30:27404";config.ClapiConfigFile="D:\NVP\vws/conf/clapi_conf.xml";config.LogFileNamePrefix="vbs4-jni";config.LogFileRootDir="D:\NVP/logs";config.LoggingLevel="STATUS";config.ManagementStationHost="10.6.60.34:8080";config.RecClientPort="7882";config.ServiceID="daae7e42-0a06-3c22-00d1-c7788221088e";egr.builtin.context="http://localhost:8120/builtin/query/";ep.BargeInInitialNoiseFloor="-22";ep.BargeInMinNoiseFloor="-42";rec.RouterDirectory="D:\NVP\vws/data/lang/Router/callrouter.rtr";rm.Addresses="GERCTX01RJOED,GERCTX02RJOED";sc.UsedInJVM="TRUE";vrs.CompilationServerTimeoutMs="120000";vrs.DatabaseOperationTimeoutMs="120000";vrs.InstallSignalHandler="FALSE";
+	GRAMMAR_LABEL             = /uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#TriagemOfertas_SaldoValido_init1<>field:option
+	PROMPT_DELAY              = 0.094
+	PROMPT_DURATION           = 3.937 (BARGE_IN)
+	LAST_USER_INPUT_TIME      = 4.063
+	STATUS                    = RECOGNITION
+	SERVER_HOSTNAME           = Unknown <connected via resource mgr>
+	RECRESULT_ID              = id_1_-1_-1
+	NUM_RESULTS               = 1
+	RESULT[0]                 = dtmf-2
+	CONFIDENCE[0]             = 100
+	PROBABILITY[0]            = 0
+	NUM_NL_INTERPRETATIONS[0] = 1
+	NL_INTERPRETATION[0][0]   = {<vws_id 1>}
+	CONFIDENCE[0][0][vws_id]  = 0
+	BARGE_IN                  = TRUE
+	STATE_DURATION            = 4.063
+}end
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:01:00 2015
+	BEGIN_TIME                = 36.109
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 3
+	APP_controle              = ICR1_00008
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=Welcome resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=MenuTipoDePlano
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=MenuTipoDePlano<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #MenuTipoDePlano
+	ENTERING_FORM_ITEM        = block:_0
+	APP_varsRoot.promoExpirada = false
+	APP_vars.isPossuiPromoTemplateSecundariaControle = false
+	APP_vars.isPossuiPromoTemplateSecundariaCartao = true
+	APP_vars.promocaoIdentificada = false
+	APP_vars.possuiPromoOiGalera = false
+	ENTERING_FORM_ITEM        = block:playBlock
+	APP_controle              = ICR1_06702
+	APP_controle              = ICR1_06704
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=MenuTipoDePlano resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=ClientePromoFaleXCentavos
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=ClientePromoFaleXCentavos<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #ClientePromoFaleXCentavos
+	ENTERING_FORM_ITEM        = block:_0
+	APP_vars.isDailyfeeFixo   = false
+	APP_vars.isBolsoDeRecargaMaiorQue4_98 = false
+	APP_vars.isDailyfeeOi     = false
+	APP_vars.dddFCODailyFee   = true
+	APP_vars.isRemainMinutesNull = true
+	APP_vars.isTipoBonusIgualTarifaDiariaWifi = true
+	APP_vars.isRecargaMininaNull = true
+	APP_vars.isFCORchgInfoDtMaiorOuIgualAHj = true
+	APP_vars.p3oferta         = true
+	APP_vars.isOpcaoSomenteRecarga = false
+	APP_vars.isDailyfeeOiFixo = false
+	APP_vars.isClienteFCORchgInfo2Bolso = false
+	APP_vars.isDailyfeeHoje   = false
+	APP_vars.isClienteFCORchgInfo1Bolso = true
+	APP_vars.dddOfertaTudoPorDia = false
+	APP_vars.finalAniOfertaTudoPorDia = false
+	APP_vars.dddFale10SaldoCartao = false
+	APP_vars.dddFale10ValidadeCartao = false
+	APP_vars.isBolsoDeRecargaMaiorQueTarifaSec = true
+	ENTERING_FORM_ITEM        = block:playBlock
+	ENTERING_FORM_ITEM        = field:option
+	PROMPTER_PATH             = None
+	PROMPTS                   = -tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 95
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_ClientePromoFaleXCentavos_MenuPrincipal_op2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 95
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_ClientePromoFaleXCentavos_MenuPrincipal_op3.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 95
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_ClientePromoFaleXCentavos_MenuPrincipal_op4.wav;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 98
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_ClientePromoFaleXCentavos_MenuPrincipal_op5_V1.wav;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 95
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_ClientePromoFaleXCentavos_MenuPrincipal_op6.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 95
+
+http://10.6.60.42:8090/uracampanha/prompts/UPR1_ClientePromoFaleXCentavos_MenuPrincipal_op7.wav
+	GRAMMAR                   = RECOGNIZE
+Content-Type:application/srgs+xml
+Nuance-Grammar-Label:/uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#ClientePromoFaleXCentavos<>field:option
+Nuance-Package-Name:pt-BR
+Nuance-Config-Name:pt-BR
+Content-Base:http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=ClientePromoFaleXCentavos
+Vendor-Specific-Parameters:behavior.calllog.ConfidentialURLParameters="state,                      creditCard,                      birth,                      prePaid,                      expirationDate,                      paymentType,                      prePaid,                      valueRecharge,                      endCardNumber,                      validationValue,                      cpf,                      cvv,                      randomChoose,                      endCard1,                      endCard2,                      endCardNumberUser,                      paymentTypeUser,                      M4URecargaBandeira,                      bandeira1,                      bandeira2,                      bandeira3,                      numerocartao,                      dataValidadeCartao,                      dtNasc,                      cpfClienteNovo,                      scvv";client.InputModes="dtmf";client.TooMuchSpeechTimeoutSecs="10.0";rec.ConfidenceRejectionThreshold="34";vrs.ConnectAt="start-utt";vxml.interdigittimeout="1.5";
+Cookie-Store:http://URACTX11RJOED:16063/cookies/
+
+<?xml version="1.0"  encoding="ISO-8859-1" standalone="no"?>
+<grammar xmlns="http://www.w3.org/2001/06/grammar" xmlns:nuance="http://voicexml.nuance.com/grammar" root="_VWS_" xml:lang="" version="1.0" tag-format="Nuance" mode="voice">
+<rule id="_VWS_" scope="public"><one-of>
+<item><tag>&lt;vws_id 0&gt;</tag><ruleref uri="#UPR1_rootCapturaClientePromoFaleXCentavos1"/></item>
+<item><tag>&lt;vws_id 1&gt;</tag><one-of>
+<item>dtmf-2 </item>
+
+</one-of></item>
+<item><tag>&lt;vws_id 2&gt;</tag><one-of>
+<item>dtmf-3 </item>
+
+</one-of></item>
+<item><tag>&lt;vws_id 3&gt;</tag><one-of>
+<item>dtmf-4 </item>
+
+</one-of></item>
+<item><tag>&lt;vws_id 4&gt;</tag><one-of>
+<item>dtmf-5 </item>
+
+</one-of></item>
+<item><tag>&lt;vws_id 5&gt;</tag><one-of>
+<item>dtmf-6 </item>
+
+</one-of></item>
+<item><tag>&lt;vws_id 6&gt;</tag><one-of>
+<item>dtmf-7 </item>
+
+</one-of></item>
+</one-of></rule>
+<rule id="UPR1_rootCapturaClientePromoFaleXCentavos1" scope="public"><one-of><item repeat="1-4"><ruleref uri="#UPR1_digitsRootCapturaClientePromoFaleXCentavos1"/></item><item>dtmf-2 </item><item>dtmf-3 </item><item>dtmf-4 </item><item>dtmf-5 </item><item>dtmf-6 </item></one-of></rule>
+<rule id="UPR1_digitsRootCapturaClientePromoFaleXCentavos1" scope="public"><one-of><item>dtmf-8 </item><item>dtmf-0 </item></one-of></rule>
+</grammar>
+	PARAMETERS                = audio.Provider="dialogic";audio.ReadyForNextCall="TRUE";audio.dialogic.ChannelID="1691670";audio.dialogic.Lines="91-120";audio.dialogic.SecondaryDevice="";audio.sip.Lines="91-120";audio.sip.UserAgentPort="5060";audio.sip.UserAgentURI="sip:nvp@URACTX11RJOED";client.ChannelId="0160";client.KillPlaybackOnDTMF="FALSE";client.PopContext="";client.PushContext="client.InputModes=\"dtmf\";client.KillPlaybackOnDTMF=\"TRUE\"";client.TTSAddresses="10.6.60.30:27404";config.ClapiConfigFile="D:\NVP\vws/conf/clapi_conf.xml";config.LogFileNamePrefix="vbs4-jni";config.LogFileRootDir="D:\NVP/logs";config.LoggingLevel="STATUS";config.ManagementStationHost="10.6.60.34:8080";config.RecClientPort="7882";config.ServiceID="daae7e42-0a06-3c22-00d1-c7788221088e";egr.builtin.context="http://localhost:8120/builtin/query/";ep.BargeInInitialNoiseFloor="-22";ep.BargeInMinNoiseFloor="-42";rec.RouterDirectory="D:\NVP\vws/data/lang/Router/callrouter.rtr";rm.Addresses="GERCTX01RJOED,GERCTX02RJOED";sc.UsedInJVM="TRUE";vrs.CompilationServerTimeoutMs="120000";vrs.DatabaseOperationTimeoutMs="120000";vrs.InstallSignalHandler="FALSE";
+	GRAMMAR_LABEL             = /uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#ClientePromoFaleXCentavos<>field:option
+	PROMPT_DELAY              = 0.094
+	PROMPT_DURATION           = 18.516 (BARGE_IN)
+	LAST_USER_INPUT_TIME      = 18.641
+	STATUS                    = RECOGNITION
+	SERVER_HOSTNAME           = Unknown <connected via resource mgr>
+	LINK_REPORT               = {<http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=ClientePromoFaleXCentavos> => {<special:NULL> => {<special:NULL>}}}
+	RECRESULT_ID              = id_1_-1_-1
+	NUM_RESULTS               = 1
+	RESULT[0]                 = dtmf-4
+	CONFIDENCE[0]             = 100
+	PROBABILITY[0]            = 0
+	NUM_NL_INTERPRETATIONS[0] = 1
+	NL_INTERPRETATION[0][0]   = {<vws_id 0>}
+	CONFIDENCE[0][0][vws_id]  = 0
+	BARGE_IN                  = TRUE
+	STATE_DURATION            = 18.641
+}end
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:01:18 2015
+	BEGIN_TIME                = 54.797
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 4
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=ClientePromoFaleXCentavos resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=DesambigServicos
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=DesambigServicos<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #DesambigServicos
+	ENTERING_FORM_ITEM        = block:_0
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=DesambigServicos resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPacotes
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPacotes<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #UNPacotes
+	ENTERING_FORM_ITEM        = block:_0
+	APP_vars.parametroDDDPacoteIncentivoAtivo = true
+	ENTERING_FORM_ITEM        = subdialog:ConsultaGetCustomerM4u
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNSubM4uGetCustomer<>http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNSubM4uGetCustomer
+	ENTERING_FORM             = #UNSubM4uGetCustomer
+	ENTERING_FORM_ITEM        = block:_0
+	APP_vars.statusCode       = 1000
+	APP_vars.isFalhaM4u       = false
+	APP_vars.isTemCartaoCadastrado = false
+	APP_vars.isRetornoInvalido = false
+	APP_vars.isSucesso        = true
+	APP_retorno               = Retorno consulta GetCustomerM4u:1000
+	ENTERING_FORM_ITEM        = block:playBlock
+	APP_controle              = ICPA_MP001
+	APP_controle              = ICPA_001
+	ENTERING_FORM_ITEM        = field:option
+	PROMPTER_PATH             = None
+	PROMPTS                   = -tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 65
+
+http://10.6.60.42:8090/uracampanha/prompts/IncentivoPacote_01.wav;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 58
+
+http://10.6.60.42:8090/uracampanha/prompts/pacotes_op1.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 58
+
+http://10.6.60.42:8090/uracampanha/prompts/pacotes_op2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 58
+
+http://10.6.60.42:8090/uracampanha/prompts/pacotes_op3.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 58
+
+http://10.6.60.42:8090/uracampanha/prompts/pacotes_op4.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 69
+
+http://10.6.60.42:8090/uracampanha/prompts/tratar_outros_assuntos.wav
+	GRAMMAR                   = RECOGNIZE
+Content-Type:application/x-nuance-gsl
+Nuance-Grammar-Label:/uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPacotes<>field:option
+Nuance-Package-Name:pt-BR
+Nuance-Config-Name:pt-BR
+Content-Base:http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPacotes
+Vendor-Specific-Parameters:behavior.calllog.ConfidentialURLParameters="state,                      creditCard,                      birth,                      prePaid,                      expirationDate,                      paymentType,                      prePaid,                      valueRecharge,                      endCardNumber,                      validationValue,                      cpf,                      cvv,                      randomChoose,                      endCard1,                      endCard2,                      endCardNumberUser,                      paymentTypeUser,                      M4URecargaBandeira,                      bandeira1,                      bandeira2,                      bandeira3,                      numerocartao,                      dataValidadeCartao,                      dtNasc,                      cpfClienteNovo,                      scvv";client.InputModes="dtmf";client.NoSpeechTimeoutSecs="3.0";client.TooMuchSpeechTimeoutSecs="10.0";rec.ConfidenceRejectionThreshold="34";rec.InterpretationEngine="full";vrs.ConnectAt="start-utt";vxml.interdigittimeout="1.5";
+Cookie-Store:http://URACTX11RJOED:16063/cookies/
+
+;GSL2.0
+_VWS_:public[
+[(dtmf-1 )] {<vws_id 0>}
+[(dtmf-2 )] {<vws_id 1>}
+[(dtmf-3 )] {<vws_id 2>}
+[(dtmf-4 )] {<vws_id 3>}
+[(dtmf-0 )] {<vws_id 4>}
+]
+	PARAMETERS                = audio.Provider="dialogic";audio.ReadyForNextCall="TRUE";audio.dialogic.ChannelID="1691670";audio.dialogic.Lines="91-120";audio.dialogic.SecondaryDevice="";audio.sip.Lines="91-120";audio.sip.UserAgentPort="5060";audio.sip.UserAgentURI="sip:nvp@URACTX11RJOED";client.ChannelId="0160";client.KillPlaybackOnDTMF="FALSE";client.PopContext="";client.PushContext="client.InputModes=\"dtmf\";client.KillPlaybackOnDTMF=\"TRUE\"";client.TTSAddresses="10.6.60.30:27404";config.ClapiConfigFile="D:\NVP\vws/conf/clapi_conf.xml";config.LogFileNamePrefix="vbs4-jni";config.LogFileRootDir="D:\NVP/logs";config.LoggingLevel="STATUS";config.ManagementStationHost="10.6.60.34:8080";config.RecClientPort="7882";config.ServiceID="daae7e42-0a06-3c22-00d1-c7788221088e";egr.builtin.context="http://localhost:8120/builtin/query/";ep.BargeInInitialNoiseFloor="-22";ep.BargeInMinNoiseFloor="-42";rec.RouterDirectory="D:\NVP\vws/data/lang/Router/callrouter.rtr";rm.Addresses="GERCTX01RJOED,GERCTX02RJOED";sc.UsedInJVM="TRUE";vrs.CompilationServerTimeoutMs="120000";vrs.DatabaseOperationTimeoutMs="120000";vrs.InstallSignalHandler="FALSE";
+	GRAMMAR_LABEL             = /uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPacotes<>field:option
+	PROMPT_DELAY              = 0.094
+	PROMPT_DURATION           = 24.828 (BARGE_IN)
+	LAST_USER_INPUT_TIME      = 24.937
+	STATUS                    = RECOGNITION
+	SERVER_HOSTNAME           = Unknown <connected via resource mgr>
+	RECRESULT_ID              = id_1_-1_-1
+	NUM_RESULTS               = 1
+	RESULT[0]                 = dtmf-2
+	CONFIDENCE[0]             = 100
+	PROBABILITY[0]            = 0
+	NUM_NL_INTERPRETATIONS[0] = 1
+	NL_INTERPRETATION[0][0]   = {<vws_id 1>}
+	CONFIDENCE[0][0][vws_id]  = 0
+	BARGE_IN                  = TRUE
+	STATE_DURATION            = 24.953
+}end
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:01:43 2015
+	BEGIN_TIME                = 79.766
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 5
+	APP_controle              = ICPA_DM001
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPacotes resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosMontagem
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosMontagem<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #UNPctDadosMontagem
+	ENTERING_FORM_ITEM        = block:_0
+	APP_vars.saldoValidoMaiorIgualPctDadosExtra15MB = true
+	APP_vars.saldoValidoMaiorIgualPctDadosExtra50MB = false
+	APP_vars.saldoValidoMaiorIgualPctDadosExtra10MB = true
+	APP_vars.saldoValidoMaiorIgualMenorPacote = true
+	APP_vars.saldoValidoMaiorIgualPctDados40MB = false
+	ENTERING_FORM_ITEM        = block:playBlock
+	ENTERING_FORM_ITEM        = field:option
+	PROMPTER_PATH             = None
+	PROMPTS                   = -tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 70
+
+http://10.6.60.42:8090/uracampanha/prompts/Pct-Dados-Montagem_1_V3.wav;-tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 81
+
+http://10.6.60.42:8090/uracampanha/prompts/Pct-dados-Ja-sabe-como-funciona_V2.wav
+	GRAMMAR                   = RECOGNIZE
+Content-Type:application/x-nuance-gsl
+Nuance-Grammar-Label:/uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPctDadosMontagem<>field:option
+Nuance-Package-Name:pt-BR
+Nuance-Config-Name:pt-BR
+Content-Base:http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosMontagem
+Vendor-Specific-Parameters:behavior.calllog.ConfidentialURLParameters="state,                      creditCard,                      birth,                      prePaid,                      expirationDate,                      paymentType,                      prePaid,                      valueRecharge,                      endCardNumber,                      validationValue,                      cpf,                      cvv,                      randomChoose,                      endCard1,                      endCard2,                      endCardNumberUser,                      paymentTypeUser,                      M4URecargaBandeira,                      bandeira1,                      bandeira2,                      bandeira3,                      numerocartao,                      dataValidadeCartao,                      dtNasc,                      cpfClienteNovo,                      scvv";client.InputModes="dtmf";client.NoSpeechTimeoutSecs="3.0";client.TooMuchSpeechTimeoutSecs="10.0";rec.ConfidenceRejectionThreshold="34";rec.InterpretationEngine="full";vrs.ConnectAt="start-utt";vxml.interdigittimeout="1.5";
+Cookie-Store:http://URACTX11RJOED:16063/cookies/
+
+;GSL2.0
+_VWS_:public[
+[(dtmf-1 )] {<vws_id 0>}
+[(dtmf-2 )] {<vws_id 1>}
+[(dtmf-3 )] {<vws_id 2>}
+[(dtmf-4 )] {<vws_id 3>}
+]
+	PARAMETERS                = audio.Provider="dialogic";audio.ReadyForNextCall="TRUE";audio.dialogic.ChannelID="1691670";audio.dialogic.Lines="91-120";audio.dialogic.SecondaryDevice="";audio.sip.Lines="91-120";audio.sip.UserAgentPort="5060";audio.sip.UserAgentURI="sip:nvp@URACTX11RJOED";client.ChannelId="0160";client.KillPlaybackOnDTMF="FALSE";client.PopContext="";client.PushContext="client.InputModes=\"dtmf\";client.KillPlaybackOnDTMF=\"TRUE\"";client.TTSAddresses="10.6.60.30:27404";config.ClapiConfigFile="D:\NVP\vws/conf/clapi_conf.xml";config.LogFileNamePrefix="vbs4-jni";config.LogFileRootDir="D:\NVP/logs";config.LoggingLevel="STATUS";config.ManagementStationHost="10.6.60.34:8080";config.RecClientPort="7882";config.ServiceID="daae7e42-0a06-3c22-00d1-c7788221088e";egr.builtin.context="http://localhost:8120/builtin/query/";ep.BargeInInitialNoiseFloor="-22";ep.BargeInMinNoiseFloor="-42";rec.RouterDirectory="D:\NVP\vws/data/lang/Router/callrouter.rtr";rm.Addresses="GERCTX01RJOED,GERCTX02RJOED";sc.UsedInJVM="TRUE";vrs.CompilationServerTimeoutMs="120000";vrs.DatabaseOperationTimeoutMs="120000";vrs.InstallSignalHandler="FALSE";
+	GRAMMAR_LABEL             = /uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPctDadosMontagem<>field:option
+	PROMPT_DELAY              = 0.078
+	PROMPT_DURATION           = 38.703 (BARGE_IN)
+	LAST_USER_INPUT_TIME      = 38.828
+	STATUS                    = RECOGNITION
+	SERVER_HOSTNAME           = Unknown <connected via resource mgr>
+	RECRESULT_ID              = id_1_-1_-1
+	NUM_RESULTS               = 1
+	RESULT[0]                 = dtmf-3
+	CONFIDENCE[0]             = 100
+	PROBABILITY[0]            = 0
+	NUM_NL_INTERPRETATIONS[0] = 1
+	NL_INTERPRETATION[0][0]   = {<vws_id 2>}
+	CONFIDENCE[0][0][vws_id]  = 0
+	BARGE_IN                  = TRUE
+	STATE_DURATION            = 38.828
+}end
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:02:22 2015
+	BEGIN_TIME                = 118.609
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 6
+	APP_controle              = ICDM_PSA004
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosMontagem resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosAssinaturaMontagem
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosAssinaturaMontagem<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #UNPctDadosAssinaturaMontagem
+	ENTERING_FORM_ITEM        = block:_0
+	APP_vars.saldoValidoMaiorIgualPctDAM2 = false
+	APP_vars.saldoValidoMaiorIgualPctDAM1 = false
+	APP_vars.saldoValidoMaiorIgualPctDAM3 = false
+	ENTERING_FORM_ITEM        = block:playBlock
+	APP_controle              = ICDAM015
+	ENTERING_FORM_ITEM        = field:option
+	PROMPTER_PATH             = None
+	PROMPTS                   = -tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 61
+
+http://10.6.60.42:8090/uracampanha/prompts/funciona_assim.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 81
+
+http://10.6.60.42:8090/uracampanha/prompts/Pct-Dados-Recorrente-Montagem_3_V3.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 60
+
+http://10.6.60.42:8090/uracampanha/prompts/menu_montagem.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 69
+
+http://10.6.60.42:8090/uracampanha/prompts/tratar_outros_assuntos.wav
+	GRAMMAR                   = RECOGNIZE
+Content-Type:application/x-nuance-gsl
+Nuance-Grammar-Label:/uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPctDadosAssinaturaMontagem<>field:option
+Nuance-Package-Name:pt-BR
+Nuance-Config-Name:pt-BR
+Content-Base:http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosAssinaturaMontagem
+Vendor-Specific-Parameters:behavior.calllog.ConfidentialURLParameters="state,                      creditCard,                      birth,                      prePaid,                      expirationDate,                      paymentType,                      prePaid,                      valueRecharge,                      endCardNumber,                      validationValue,                      cpf,                      cvv,                      randomChoose,                      endCard1,                      endCard2,                      endCardNumberUser,                      paymentTypeUser,                      M4URecargaBandeira,                      bandeira1,                      bandeira2,                      bandeira3,                      numerocartao,                      dataValidadeCartao,                      dtNasc,                      cpfClienteNovo,                      scvv";client.InputModes="dtmf";client.NoSpeechTimeoutSecs="3.0";client.TooMuchSpeechTimeoutSecs="10.0";rec.ConfidenceRejectionThreshold="34";rec.InterpretationEngine="full";vrs.ConnectAt="start-utt";vxml.interdigittimeout="1.5";
+Cookie-Store:http://URACTX11RJOED:16063/cookies/
+
+;GSL2.0
+_VWS_:public[
+[(dtmf-1 )] {<vws_id 0>}
+[(dtmf-2 )] {<vws_id 1>}
+[(dtmf-0 )] {<vws_id 2>}
+]
+	PARAMETERS                = audio.Provider="dialogic";audio.ReadyForNextCall="TRUE";audio.dialogic.ChannelID="1691670";audio.dialogic.Lines="91-120";audio.dialogic.SecondaryDevice="";audio.sip.Lines="91-120";audio.sip.UserAgentPort="5060";audio.sip.UserAgentURI="sip:nvp@URACTX11RJOED";client.ChannelId="0160";client.KillPlaybackOnDTMF="FALSE";client.PopContext="";client.PushContext="client.InputModes=\"dtmf\";client.KillPlaybackOnDTMF=\"TRUE\"";client.TTSAddresses="10.6.60.30:27404";config.ClapiConfigFile="D:\NVP\vws/conf/clapi_conf.xml";config.LogFileNamePrefix="vbs4-jni";config.LogFileRootDir="D:\NVP/logs";config.LoggingLevel="STATUS";config.ManagementStationHost="10.6.60.34:8080";config.RecClientPort="7882";config.ServiceID="daae7e42-0a06-3c22-00d1-c7788221088e";egr.builtin.context="http://localhost:8120/builtin/query/";ep.BargeInInitialNoiseFloor="-22";ep.BargeInMinNoiseFloor="-42";rec.RouterDirectory="D:\NVP\vws/data/lang/Router/callrouter.rtr";rm.Addresses="GERCTX01RJOED,GERCTX02RJOED";sc.UsedInJVM="TRUE";vrs.CompilationServerTimeoutMs="120000";vrs.DatabaseOperationTimeoutMs="120000";vrs.InstallSignalHandler="FALSE";
+	GRAMMAR_LABEL             = /uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPctDadosAssinaturaMontagem<>field:option
+	PROMPT_DELAY              = 0.063
+	PROMPT_DURATION           = 44.094 (BARGE_IN)
+	LAST_USER_INPUT_TIME      = 44.188
+	STATUS                    = RECOGNITION
+	SERVER_HOSTNAME           = Unknown <connected via resource mgr>
+	RECRESULT_ID              = id_1_-1_-1
+	NUM_RESULTS               = 1
+	RESULT[0]                 = dtmf-1
+	CONFIDENCE[0]             = 100
+	PROBABILITY[0]            = 0
+	NUM_NL_INTERPRETATIONS[0] = 1
+	NL_INTERPRETATION[0][0]   = {<vws_id 0>}
+	CONFIDENCE[0][0][vws_id]  = 0
+	BARGE_IN                  = TRUE
+	STATE_DURATION            = 44.188
+}end
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:03:06 2015
+	BEGIN_TIME                = 162.812
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 7
+	ENTERING_FORM             = #UNPctDadosAssinaturaMontagem_01
+	ENTERING_FORM_ITEM        = block:_1
+	APP_vars.saldoValidoMaiorIgualPctDAM2 = false
+	APP_vars.saldoValidoMaiorIgualPctDAM1 = false
+	APP_vars.saldoValidoMaiorIgualPctDAM3 = false
+	APP_controle              = ICDAM014
+	APP_controle              = ICDAM008
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosAssinaturaMontagem resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosSemSaldoAssinatura
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosSemSaldoAssinatura<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #UNPctDadosSemSaldoAssinatura
+	ENTERING_FORM_ITEM        = block:_0
+	ENTERING_FORM_ITEM        = block:playBlock
+	APP_controle              = ICDAM_MP001
+	ENTERING_FORM_ITEM        = field:option
+	PROMPTER_PATH             = None
+	PROMPTS                   = -tts_text: SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 78
+
+http://10.6.60.42:8090/uracampanha/prompts/PctDadosSemSaldoAssinatura_1_V2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 75
+
+http://10.6.60.42:8090/uracampanha/prompts/PctDadosSemSaldoAssinatura_2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 75
+
+http://10.6.60.42:8090/uracampanha/prompts/PctDadosSemSaldoAssinatura_3.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 78
+
+http://10.6.60.42:8090/uracampanha/prompts/PctDadosSemSaldoAssinatura_4_V2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 78
+
+http://10.6.60.42:8090/uracampanha/prompts/PctDadosSemSaldoAssinatura_5_V2.wav, SPEAK
+Resource-Name: AudioServer
+Content-Type: text/uri
+Content-Length: 75
+
+http://10.6.60.42:8090/uracampanha/prompts/PctDadosSemSaldoAssinatura_0.wav
+	GRAMMAR                   = RECOGNIZE
+Content-Type:application/x-nuance-gsl
+Nuance-Grammar-Label:/uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPctDadosSemSaldoAssinatura<>field:option
+Nuance-Package-Name:pt-BR
+Nuance-Config-Name:pt-BR
+Content-Base:http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosSemSaldoAssinatura
+Vendor-Specific-Parameters:behavior.calllog.ConfidentialURLParameters="state,                      creditCard,                      birth,                      prePaid,                      expirationDate,                      paymentType,                      prePaid,                      valueRecharge,                      endCardNumber,                      validationValue,                      cpf,                      cvv,                      randomChoose,                      endCard1,                      endCard2,                      endCardNumberUser,                      paymentTypeUser,                      M4URecargaBandeira,                      bandeira1,                      bandeira2,                      bandeira3,                      numerocartao,                      dataValidadeCartao,                      dtNasc,                      cpfClienteNovo,                      scvv";client.InputModes="dtmf";client.NoSpeechTimeoutSecs="3.0";client.TooMuchSpeechTimeoutSecs="10.0";rec.ConfidenceRejectionThreshold="34";rec.InterpretationEngine="full";vrs.ConnectAt="start-utt";vxml.interdigittimeout="1.5";
+Cookie-Store:http://URACTX11RJOED:16063/cookies/
+
+;GSL2.0
+_VWS_:public[
+[(dtmf-1 )] {<vws_id 0>}
+[(dtmf-2 )] {<vws_id 1>}
+[(dtmf-3 )] {<vws_id 2>}
+[(dtmf-4 )] {<vws_id 3>}
+[(dtmf-0 )] {<vws_id 4>}
+]
+	PARAMETERS                = audio.Provider="dialogic";audio.ReadyForNextCall="TRUE";audio.dialogic.ChannelID="1691670";audio.dialogic.Lines="91-120";audio.dialogic.SecondaryDevice="";audio.sip.Lines="91-120";audio.sip.UserAgentPort="5060";audio.sip.UserAgentURI="sip:nvp@URACTX11RJOED";client.ChannelId="0160";client.KillPlaybackOnDTMF="FALSE";client.PopContext="";client.PushContext="client.InputModes=\"dtmf\";client.KillPlaybackOnDTMF=\"TRUE\"";client.TTSAddresses="10.6.60.30:27404";config.ClapiConfigFile="D:\NVP\vws/conf/clapi_conf.xml";config.LogFileNamePrefix="vbs4-jni";config.LogFileRootDir="D:\NVP/logs";config.LoggingLevel="STATUS";config.ManagementStationHost="10.6.60.34:8080";config.RecClientPort="7882";config.ServiceID="daae7e42-0a06-3c22-00d1-c7788221088e";egr.builtin.context="http://localhost:8120/builtin/query/";ep.BargeInInitialNoiseFloor="-22";ep.BargeInMinNoiseFloor="-42";rec.RouterDirectory="D:\NVP\vws/data/lang/Router/callrouter.rtr";rm.Addresses="GERCTX01RJOED,GERCTX02RJOED";sc.UsedInJVM="TRUE";vrs.CompilationServerTimeoutMs="120000";vrs.DatabaseOperationTimeoutMs="120000";vrs.InstallSignalHandler="FALSE";
+	GRAMMAR_LABEL             = /uracampanha/vxml/oiatende-root.jsp<>servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC<>#UNPctDadosSemSaldoAssinatura<>field:option
+	PROMPT_DELAY              = 0.094
+	STATUS                    = HANG_UP
+	BARGE_IN                  = FALSE
+	STATE_DURATION            = 26.641
+}end
+;;;;;;;;;;
+start{
+	TIME                      = Wed Apr 01 00:03:33 2015
+	BEGIN_TIME                = 189.453
+	SESSION_ID                = 0a063c1e_00001598_551b5f47_ade6_0160
+	RECORD_NUMBER             = 8
+	PROMPT_DURATION           = 2.85557e+006 (HANG_UP)
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=UNPctDadosSemSaldoAssinatura resulted in http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=HangUp
+	EXECUTING_URL             = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=HangUp<>http://10.6.60.42:8090/uracampanha/vxml/oiatende-root.jsp
+	ENTERING_FORM             = #HungUp
+	ENTERING_FORM_ITEM        = block:_0
+	ENTERING_FORM_ITEM        = block:_1
+	APP_hup                   = USR
+	TRANSITION                = http://10.6.60.42:8090/uracampanha/servlet;jsessionid=443824B2736D1AD432B971B40EC44FFC?action=transition&dialog=HangUp resulted in exit
+	STATUS                    = LEFT_OVERS
+	BARGE_IN                  = FALSE
+	STATE_DURATION            = 0
+}end
+;;;
+;;; Closed D:/NVP/logs/../callLogs/master/Accenture/UraCampanha/2015/04April/01/00/00-24-URACTX11RJOED-E1-VOX-SC-line-104-LOG
+;;; Wed Apr 01 00:03:33 2015
+;;;
